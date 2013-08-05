@@ -1,6 +1,13 @@
 i3 usage examples
 =================
 
+config_first_free.py
+--------------------
+
+config_first_free.py__ opens first available workspace sets two column, stacked
+layout and opens browser in left column and terminal in right.
+
+
 cycle.py
 --------
 
